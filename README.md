@@ -30,6 +30,12 @@ A single-player survival game set in a zombie apocalypse, where players control 
 1. Ensure you have **JUnit** set up in your IDE.
 2. Run the test suite to check the game logic.
 
+## To Do
+
+- Improve UI
+- Add how to play page
+- Refactor resources to be in resources folder
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
