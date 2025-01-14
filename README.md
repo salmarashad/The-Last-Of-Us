@@ -2,6 +2,8 @@
 
 A single-player survival game set in a zombie apocalypse, where players control heroes to survive and cure zombies. The game is turn-based, and each hero has unique abilities that help the player navigate and defeat zombies.
 
+<img width="942" alt="image" src="https://github.com/user-attachments/assets/9ac5d404-970a-4fad-995c-5e0903d8002b" />
+
 ## Features
 - **Heroes**: Control various heroes with unique abilities (e.g., Explorer, Medic, Fighter).
 - **Zombies**: Defeat or cure zombies to grow your hero pool.
